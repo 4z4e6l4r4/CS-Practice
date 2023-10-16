@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\bin\Debug\net6.0\Döngüler.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\refint\Döngüler.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\Döngüler.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Döngüler\Döngüler\obj\Debug\net6.0\ref\Döngüler.dll

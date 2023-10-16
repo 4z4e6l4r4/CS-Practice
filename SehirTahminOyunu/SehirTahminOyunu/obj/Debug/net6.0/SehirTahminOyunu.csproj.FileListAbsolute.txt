@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\net6.0\SehirTahminOyunu.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\net6.0\SehirTahminOyunu.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\net6.0\SehirTahminOyunu.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\net6.0\SehirTahminOyunu.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\bin\Debug\net6.0\SehirTahminOyunu.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\refint\SehirTahminOyunu.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\SehirTahminOyunu.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\SehirTahminOyunu\SehirTahminOyunu\obj\Debug\net6.0\ref\SehirTahminOyunu.dll

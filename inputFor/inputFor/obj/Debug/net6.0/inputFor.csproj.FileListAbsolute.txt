@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\bin\Debug\net6.0\inputFor.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\bin\Debug\net6.0\inputFor.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\bin\Debug\net6.0\inputFor.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\bin\Debug\net6.0\inputFor.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\bin\Debug\net6.0\inputFor.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\refint\inputFor.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\inputFor.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\inputFor\inputFor\obj\Debug\net6.0\ref\inputFor.dll

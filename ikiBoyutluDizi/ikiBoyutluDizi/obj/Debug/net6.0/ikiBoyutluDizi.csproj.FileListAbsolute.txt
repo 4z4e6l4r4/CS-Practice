@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\bin\Debug\net6.0\ikiBoyutluDizi.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\bin\Debug\net6.0\ikiBoyutluDizi.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\bin\Debug\net6.0\ikiBoyutluDizi.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\bin\Debug\net6.0\ikiBoyutluDizi.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\bin\Debug\net6.0\ikiBoyutluDizi.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\refint\ikiBoyutluDizi.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ikiBoyutluDizi.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\ikiBoyutluDizi\ikiBoyutluDizi\obj\Debug\net6.0\ref\ikiBoyutluDizi.dll

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\bin\Debug\net6.0\CalculatorExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\bin\Debug\net6.0\CalculatorExample.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\bin\Debug\net6.0\CalculatorExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\bin\Debug\net6.0\CalculatorExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\bin\Debug\net6.0\CalculatorExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\refint\CalculatorExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\CalculatorExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\CalculatorExample\CalculatorExample\obj\Debug\net6.0\ref\CalculatorExample.dll

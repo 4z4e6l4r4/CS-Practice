@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\bin\Debug\net6.0\TimeAndDate.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\bin\Debug\net6.0\TimeAndDate.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\bin\Debug\net6.0\TimeAndDate.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\bin\Debug\net6.0\TimeAndDate.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\bin\Debug\net6.0\TimeAndDate.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\refint\TimeAndDate.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\TimeAndDate.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\TimeAndDate\TimeAndDate\obj\Debug\net6.0\ref\TimeAndDate.dll

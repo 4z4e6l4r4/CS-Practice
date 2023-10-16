@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\bin\Debug\net6.0\WhileExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\bin\Debug\net6.0\WhileExample.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\bin\Debug\net6.0\WhileExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\bin\Debug\net6.0\WhileExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\bin\Debug\net6.0\WhileExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\refint\WhileExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\WhileExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\WhileExample\WhileExample\obj\Debug\net6.0\ref\WhileExample.dll

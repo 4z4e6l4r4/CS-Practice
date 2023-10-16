@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\bin\Debug\net6.0\DoWhileExample.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\bin\Debug\net6.0\DoWhileExample.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\bin\Debug\net6.0\DoWhileExample.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\bin\Debug\net6.0\DoWhileExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\bin\Debug\net6.0\DoWhileExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\refint\DoWhileExample.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\DoWhileExample.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\DoWhileExample\DoWhileExample\obj\Debug\net6.0\ref\DoWhileExample.dll

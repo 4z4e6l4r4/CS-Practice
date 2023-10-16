@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\bin\Debug\net6.0\Diziler.exe
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\bin\Debug\net6.0\Diziler.deps.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\bin\Debug\net6.0\Diziler.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\bin\Debug\net6.0\Diziler.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\bin\Debug\net6.0\Diziler.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\refint\Diziler.dll
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.pdb
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\Diziler.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Uygulamaları\Diziler\Diziler\obj\Debug\net6.0\ref\Diziler.dll
